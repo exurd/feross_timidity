@@ -21,8 +21,6 @@
     "freepats": "^1.0.1"
   },
   "devDependencies": {
-    "babel-minify": "^0.5.1",
-    "browserify": "^16.2.2",
     "standard": "*"
   },
   "homepage": "https://bitmidi.com",
