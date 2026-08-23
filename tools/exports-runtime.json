@@ -1,3 +1,6 @@
 [
   "FS",
-  "UTF8ToString"]
+  "UTF8ToString",
+  "HEAPU8",
+  "HEAP16"
+]
