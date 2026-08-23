@@ -1,0 +1,4 @@
+[submodule "libtimidity"]
+	path = libtimidity
+	url = https://github.com/exurd/sezero_libtimidity.git
+	branch = javascript_port
